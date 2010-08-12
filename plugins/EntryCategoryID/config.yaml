@@ -1,0 +1,14 @@
+id: EntryCategoryID
+name: EntryCategoryID
+author_link: http://www.koikikukan.com/
+author_name: Yujiro Araki
+plugin_link: http://github.com/koikikukan/mt-plugin-entry-category-id
+doc_link: http://www.koikikukan.com/archives/2008/02/24-022222.php
+description: <__trans phrase="This is Movable Type plugin for EntryCategoryID function tag.">
+version: 0.10
+l10n_lexicon:
+    ja:
+        This is Movable Type plugin for EntryCategoryID function tag.: ブログ記事のカテゴリIDを出力するファンクションタグを提供します
+tags:
+    function:
+        EntryCategoryID: $EntryCategoryID::Tags::_hdlr_entry_category_id
